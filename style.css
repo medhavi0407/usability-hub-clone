@@ -194,7 +194,7 @@ header{
 
 .features-section{
     padding:80px var(--padding-inline-section) 0;
-    background-image:url(./assets/asset\ 34.svg);
+    background-image:url('./assets/asset\ 34.svg');
     background-repeat:no-repeat;
     background-position:center;
 }
@@ -246,7 +246,7 @@ header{
 }
 
 .one{
-background-image: url(./assets/asset\ 35.svg);
+background-image: url('./assets/asset\ 35.svg');
 background-repeat:no-repeat;
 }
 
@@ -283,7 +283,7 @@ background-repeat:no-repeat;
     background:black;
     background-size:cover;
     transition:0.2s ease-out;
-    background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./assets/asset\ 37.jpeg);
+    background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url('./assets/asset\ 37.jpeg');
 }
 
 .examples-card:hover{
@@ -291,11 +291,11 @@ background-repeat:no-repeat;
 }
 
 .examples-card:nth-child(3){
-    background:linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),url(./assets/asset\ 38.jpeg);
+    background:linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),url('./assets/asset\ 38.jpeg');
 }
 
 .examples-card:nth-child(4) {
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 39.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url('./assets/asset\ 39.jpeg');
 }
 
 .card-text{
